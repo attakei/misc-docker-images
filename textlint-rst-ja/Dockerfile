@@ -1,4 +1,5 @@
 FROM alpine:3.7
+LABEL maintainer "Kazuya Takei<attakei@gmail.com>"
 
 RUN apk add --no-cache nodejs python3 \
     && pip3 install docutils-ast-writer \
