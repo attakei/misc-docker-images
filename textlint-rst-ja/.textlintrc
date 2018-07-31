@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "rst"
+  ],
+  "rules": {
+    "preset-japanese": true
+  }
+}
+
